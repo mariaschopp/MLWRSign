@@ -1,6 +1,6 @@
 # MLWRSign
 
-Implementation of the digitial signature algorithm by Okada et al.
+Implementation of the digitial signature algorithm by Okada et al. Paper here: https://eprint.iacr.org/2021/1699
 
 Brief summary:
 
